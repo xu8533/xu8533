@@ -1,13 +1,16 @@
 ### 👋 I'm Xu Jian, Welcome to my github!
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xu8533&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xu8533&repo=dotfiles&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xu8533&hide=glsl,lua&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/xu8533/dotfiles">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xu8533&repo=dotfiles" />
+</a>
 <a href="https://github.com/xu8533/ssg2srx">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xu8533&repo=ssg2srx" />
 </a>
 <a href="https://github.com/xu8533/srx2ssg">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xu8533&repo=srx2ssg" />
 </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xu8533&hide=glsl,lua&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **xu8533/xu8533** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
