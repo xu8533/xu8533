@@ -11,10 +11,10 @@
 </a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xu8533&hide=glsl,lua&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on network engeneer
+- 🔭 I’m an network engineer
 - 🌱 I’m currently learning Python, Perl, Lua, Shell
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m using AstroNvim
+- 🤔 I’m working on hyprland WM
 - 💬 Ask me about ...
 - 📫 How to reach me: 838178533@qq.com
 - 😄 Pronouns: ...
