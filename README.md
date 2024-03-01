@@ -10,8 +10,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xu8533&repo=srx2ssg&show_owner=true" />
 </a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xu8533&hide=glsl,lua&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**xu8533/xu8533** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -23,4 +21,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 838178533@qq.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
