@@ -1,7 +1,9 @@
 <p align="center">
   <b> ~ 👋 I'm Xu Jian, Welcome to my github! ~ </b>
 </p>
+
 <br>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xu8533&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
