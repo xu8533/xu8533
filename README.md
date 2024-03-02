@@ -1,6 +1,6 @@
 ### 👋 I'm Xu Jian, Welcome to my github!
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xu8533&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://github.com/xu8533/dotfiles">
+<br>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xu8533&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</br>
+<br><a href="https://github.com/xu8533/dotfiles">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xu8533&repo=dotfiles&show_owner=true" />
 </a>
 <a href="https://github.com/xu8533/ssg2srx">
@@ -11,7 +11,7 @@
 </a>
 <a href="https://github.com/xu8533/hillstone2srx">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xu8533&repo=hillstone2srx&show_owner=true" />
-</a>
+</a></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xu8533&hide=glsl,lua&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m an network engineer
