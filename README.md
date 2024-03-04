@@ -1,7 +1,11 @@
 <p align="center">
-  <b> ~ 👋 I'm Xu Jian, Welcome to my github! ~ </b>
+  <b> ~ I'm Xu Jian, Welcome to my github! 👋 ~ </b>
 </p>
-
+<p>
+<img align="center" src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
+<img align="center" src="https://img.shields.io/static/v1?label=Program&message=Perl&color=teal"/>
+<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=github.com/xu8533&right_color=red" />
+</p>
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xu8533&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -35,3 +39,4 @@
 - 📫 How to reach me: 838178533@qq.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![](https://activity-graph.herokuapp.com/graph?username=xu8533&theme=github)
