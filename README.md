@@ -16,20 +16,20 @@
 
 <br>
 
-<p align="left">
+<div>
 <a href="https://github.com/xu8533/dotfiles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xu8533&repo=dotfiles&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xu8533&repo=dotfiles&show_owner=true&theme=radical&layout=compact" />
 </a>
 <a href="https://github.com/xu8533/ssg2srx">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xu8533&repo=ssg2srx&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xu8533&repo=ssg2srx&show_owner=true&theme=radical&layout=compact" />
 </a>
 <a href="https://github.com/xu8533/srx2ssg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xu8533&repo=srx2ssg&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xu8533&repo=srx2ssg&show_owner=true&theme=radical&layout=compact" />
 </a>
 <a href="https://github.com/xu8533/hillstone2srx">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xu8533&repo=hillstone2srx&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xu8533&repo=hillstone2srx&show_owner=true&theme=radical&layout=compact" />
 </a>
-</p>
+</div>
 
 <br>
 
