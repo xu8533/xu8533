@@ -8,13 +8,9 @@
 <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=xu8533.xu8533&left_color=green&right_color=red" />
 </p>
 
-<br>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xu8533&show_icons=true&theme=radical" />
 </p>
-
-<br>
 
 <div>
 <a href="https://github.com/xu8533/dotfiles">
@@ -32,10 +28,17 @@
 </div>
 
 <br>
-
+<!--
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xu8533&hide=glsl,lua&theme=radical&layout=compact" />
 </div>
+-->
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xu8533&hide=glsl,lua&theme=ambient_gradient&layout=compact" />
+</div>
+
+<!-- ![My stats](https://github-readme-stats.vercel.app/api?username=xu8533&theme=calm&show_icons=true) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xu8533&hide=glsl,lua&theme=calm&langs_count=6) -->
 
 <br>
 
