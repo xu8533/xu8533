@@ -1,5 +1,5 @@
 <p align="center">
-  <b> ~ I'm Xu Jian, Welcome to my github! 👋 ~ </b>
+  <h2 align="center"> <b> ~ I'm Xu Jian, Welcome to my github! 👋 ~ </b> </h2>
 </p>
 
 <p align="center">
@@ -16,6 +16,7 @@
 
 <br>
 
+<p align="left">
 <a href="https://github.com/xu8533/dotfiles">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xu8533&repo=dotfiles&show_owner=true" />
 </a>
@@ -28,8 +29,8 @@
 <a href="https://github.com/xu8533/hillstone2srx">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xu8533&repo=hillstone2srx&show_owner=true" />
 </a>
+</p>
 
-<br>
 <br>
 
 <p align="left">
@@ -38,9 +39,6 @@
 
 <br>
 
-![](https://activity-graph.herokuapp.com/graph?username=xu8533&theme=github)
-
-<br>
 
 - 🔭 I’m an network engineer
 - 🌱 I’m currently learning Python, Perl, Lua, Shell
