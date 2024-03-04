@@ -10,8 +10,8 @@
 
 #### Tools
 
-[![](https://img.shields.io/badge/VsCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&labelColor=ffffff&logoColor=007ACC)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Astronvim-57A143?style=flat-square&logo=Neovim&labelColor=ffffff&logoColor=57A143)](https://https://astronvim.com/)
+[![](https://img.shields.io/badge/VsCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&labelColor=ffffff&logoColor=007ACC)](https://code.visualstudio.com/)
 
 #### Languages
 
