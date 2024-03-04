@@ -11,7 +11,7 @@
 #### Tools
 
 [![](https://img.shields.io/badge/VsCode-编辑器-007ACC?style=flat-square&logo=Visual%20Studio%20Code&labelColor=ffffff&logoColor=007ACC)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/Astronvim-编辑器-007ACC?style=flat-square&logo=vim&labelColor=57A143&logoColor=57A143)](https://https://astronvim.com/)
+[![](https://img.shields.io/badge/Astronvim-编辑器-57A143?style=flat-square&logo=neovim&labelColor=57A143&logoColor=57A143)](https://https://astronvim.com/)
 
 #### Languages
 
@@ -19,7 +19,7 @@
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![](https://img.shields.io/badge/Python-3.11-326c9c?logo=Python&logoColor=326c9c)](https://www.python.org/)
-[![](https://img.shields.io/badge/Perl-5.38-326c9c?logo=Perl&logoColor=39457E)](https://www.perl.org/)
+[![](https://img.shields.io/badge/Perl-5.38-39457E?logo=Perl&logoColor=39457E)](https://www.perl.org/)
 
 <div>
 <a href="https://github.com/xu8533/dotfiles">
