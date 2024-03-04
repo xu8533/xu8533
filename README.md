@@ -33,9 +33,9 @@
 
 <br>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xu8533&hide=glsl,lua&&layout=compact" />
-</p>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xu8533&hide=glsl,lua&theme=radical&layout=compact" />
+</div>
 
 <br>
 
