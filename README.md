@@ -2,15 +2,24 @@
   <h2 align="center"> <b> ~ I'm Xu Jian, Welcome to my github! 👋 ~ </b> </h2>
 </p>
 
-<p align="center">
-<img align="center" src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
-<img align="center" src="https://img.shields.io/static/v1?label=Program&message=Perl&color=teal"/>
-<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=xu8533.xu8533&left_color=green&right_color=red" />
-</p>
+#### Platforms
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xu8533&show_icons=true&theme=radical" />
-</p>
+[![](https://img.shields.io/badge/Archlinux-Last-292e33?style=flat-square&logo=archlinux&logoColor=ffffff)](https://www.archlinux.org/)
+[![](https://img.shields.io/badge/Windows-10-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-10)
+[![](https://img.shields.io/badge/iPhone-13%20Mini-999999?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
+
+#### Tools
+
+[![](https://img.shields.io/badge/VsCode-编辑器-007ACC?style=flat-square&logo=Visual%20Studio%20Code&labelColor=ffffff&logoColor=007ACC)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/Astronvim-编辑器-007ACC?style=flat-square&logo=vim&labelColor=57A143&logoColor=57A143)](https://https://astronvim.com/)
+
+#### Languages
+
+[![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
+[![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![](https://img.shields.io/badge/Python-3.11-326c9c?logo=Python&logoColor=326c9c)](https://www.python.org/)
+[![](https://img.shields.io/badge/Perl-5.38-326c9c?logo=Perl&logoColor=39457E)](https://www.perl.org/)
 
 <div>
 <a href="https://github.com/xu8533/dotfiles">
@@ -32,8 +41,13 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xu8533&hide=glsl,lua&theme=radical&layout=compact" />
 </div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xu8533&show_icons=true&theme=radical" />
+</p>
 -->
+
 <div>
+  <img src="https://github-readme-stats.vercel.app/api?username=xu8533&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xu8533&hide=glsl,lua&theme=ambient_gradient&layout=compact" />
 </div>
 
