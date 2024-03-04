@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xu8533&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xu8533&show_icons=true&theme=radical" />
 </p>
 
 <br>
@@ -30,8 +30,15 @@
 </a>
 
 <br>
+<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xu8533&hide=glsl,lua&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xu8533&hide=glsl,lua&&layout=compact" />
+</p>
+
+<br>
+
+![](https://activity-graph.herokuapp.com/graph?username=xu8533&theme=github)
 
 <br>
 
@@ -43,4 +50,4 @@
 - 📫 How to reach me: 838178533@qq.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![](https://activity-graph.herokuapp.com/graph?username=xu8533&theme=github)
+
