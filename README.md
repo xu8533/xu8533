@@ -18,8 +18,8 @@
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![](https://img.shields.io/badge/Python-3.11-326c9c?logo=Python&logoColor=326c9c)](https://www.python.org/)
-[![](https://img.shields.io/badge/Perl-5.38-39457E?logo=Perl&logoColor=39457E)](https://www.perl.org/)
+[![](https://img.shields.io/badge/-Python-326c9c?logo=Python&logoColor=white)](https://www.python.org/)
+[![](https://img.shields.io/badge/-Perl-39457E?logo=Perl&logoColor=white)](https://www.perl.org/)
 
 <div>
 <a href="https://github.com/xu8533/dotfiles">
