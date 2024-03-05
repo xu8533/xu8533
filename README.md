@@ -2,12 +2,12 @@
   <h2 align="center"> <b> ~ I'm Xu Jian, Welcome to my github! 👋 ~ </b> </h2>
 </p>
 
+[![](https://img.shields.io/badge/Astronvim-57A143?style=flat-square&logo=Neovim&labelColor=ffffff&logoColor=57A143)](https://https://astronvim.com/)
+[![](https://img.shields.io/badge/VsCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&labelColor=ffffff&logoColor=007ACC)](https://code.visualstudio.com/)
+
 [![](https://img.shields.io/badge/-Archlinux-1793D1?style=flat-square&logo=archlinux&logoColor=white)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-10)
 [![](https://img.shields.io/badge/-Mate70-FF0000?style=flat-square&logo=huawei&logoColor=ffffff)](https://www.huawei.com/)
-
-[![](https://img.shields.io/badge/Astronvim-57A143?style=flat-square&logo=Neovim&labelColor=ffffff&logoColor=57A143)](https://https://astronvim.com/)
-[![](https://img.shields.io/badge/VsCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&labelColor=ffffff&logoColor=007ACC)](https://code.visualstudio.com/)
 
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
