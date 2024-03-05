@@ -4,9 +4,9 @@
 
 #### Platforms
 
-[![](https://img.shields.io/badge/Archlinux-Last-1793D1?style=flat-square&logo=archlinux&logoColor=ffffff)](https://www.archlinux.org/)
+[![](https://img.shields.io/badge/-Archlinux-1793D1?style=flat-square&logo=archlinux&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/Windows-10-0078D6?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-10)
-[![](https://img.shields.io/badge/Huawei-mate60-FF0000?style=flat-square&logo=huawei&logoColor=ffffff)](https://www.huawei.com/)
+[![](https://img.shields.io/badge/-mate70-FF0000?style=flat-square&logo=huawei&logoColor=ffffff)](https://www.huawei.com/)
 
 #### Tools
 
