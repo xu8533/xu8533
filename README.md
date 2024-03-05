@@ -30,6 +30,12 @@
 <a href="https://github.com/xu8533/hillstone2srx">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xu8533&repo=hillstone2srx&show_owner=true&theme=radical&layout=compact" />
 </a>
+<a href="https://github.com/xu8533/find_hit_counter_zero">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xu8533&repo=find_hit_counter_zero&show_owner=true&theme=radical&layout=compact" />
+</a>
+<a href="https://github.com/xu8533/fcitx5-skins">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xu8533&repo=fcitx5-skins&show_owner=true&theme=radical&layout=compact" />
+</a>
 </div>
 
 <br>
