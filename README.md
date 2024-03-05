@@ -19,6 +19,7 @@
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=Lua&logoColor=white)](https://www.lua.org/)
+[![](https://img.shields.io/badge/-gnubash-4EAA25?style=flat-square&logo=gunbash&logoColor=white)](https://www.gnu.org/software/bash/bash.html)
 [![](https://img.shields.io/badge/-Python-326c9c?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Perl-39457E?style=flat-square&logo=Perl&logoColor=white)](https://www.perl.org/)
 
