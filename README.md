@@ -8,7 +8,7 @@
 
 [![](https://img.shields.io/badge/-ArchLinux-1793D1?style=flat-square&logo=archlinux&logoColor=white)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-10)
-[![](https://img.shields.io/badge/-Mate70-FF0000?style=flat-square&logo=huawei&logoColor=ffffff)](https://www.huawei.com/)
+[![](https://img.shields.io/badge/-Mate70RS-FF0000?style=flat-square&logo=huawei&logoColor=ffffff)](https://www.huawei.com/)
 
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
