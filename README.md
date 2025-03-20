@@ -3,7 +3,7 @@
 </p>
 
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&labelColor=ffffff&logo=git&logoColor=f05032)](https://git-scm.com/)
-[![](https://img.shields.io/badge/-AstroNvim-57A143?style=flat-square&logo=Neovim&labelColor=ffffff&logoColor=57A143)](https://https://astronvim.com/)
+[![](https://img.shields.io/badge/-AstroNvim-57A143?style=flat-square&logo=Neovim&labelColor=ffffff&logoColor=57A143)](https://www.lazyvim.org/)
 [![](https://img.shields.io/badge/-VsCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&labelColor=ffffff&logoColor=007ACC)](https://code.visualstudio.com/)
 
 [![](https://img.shields.io/badge/-ArchLinux-1793D1?style=flat-square&logo=archlinux&logoColor=white)](https://www.archlinux.org/)
