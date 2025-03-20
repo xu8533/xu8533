@@ -61,10 +61,10 @@
 
 - 🔭 I’m an network engineer
 - 🌱 I’m currently learning Python, Perl, Lua, Shell
-- 👯 I’m using AstroNvim
+- 👯 I’m using LazyVim
 - 🤔 I’m working on ArchLinux with hyprland WM
 - 💬 Ask me about ...
 - 📫 How to reach me: 838178533@qq.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: 一万年太久，只争朝夕
 - ⚡ Fun fact: ...
 
