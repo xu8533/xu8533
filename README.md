@@ -68,7 +68,6 @@
 - 😄 Pronouns: 一万年太久，只争朝夕
 - ⚡ Fun fact: ...
 <br>
-## :rocket: <samp>MISCELLANEOUS</samp>
 <h2 align="center"><b> 🔹十六字令三首🔹 </b></h2>
 <p align="center">
 山，快马加鞭未下鞍。<br/>
