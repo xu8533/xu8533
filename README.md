@@ -68,3 +68,19 @@
 - 😄 Pronouns: 一万年太久，只争朝夕
 - ⚡ Fun fact: ...
 
+<br>
+
+## :rocket: <samp>MISCELLANEOUS</samp>
+<h2 align="center"><b> 十六字令🔹三首 </b></h2>
+<p align="center">
+山，快马加鞭未下鞍。<br/>
+惊回首，离天三尺三。<br/>
+山，倒海翻江卷巨澜。<br/>
+奔腾急，万马战犹酣。<br/>
+山，刺破青天锷未残。<br/>
+天欲堕，赖以拄其间。<br/>
+</p>
+
+<p align="center">
+   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true"/>
+</p>
